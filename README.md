@@ -39,10 +39,10 @@ public class SOLdatestyle {
     *  DESC 表名----查看表结构，包括列的名字，类型，长度等
     *     例如DESC file
     *     
-    *  DROP TABLE 表名字-----删除表
+    *  DROP TABLE 表名字-----删除表
     *  
-    *  RENAME 表名 TO 新表名-----重新给表命名
-    *  
+    *  RENAME 表名 TO 新表名-----重新给表命名???? UPDATA TABLE 表名 RENAME TO 新表明---mysql
+    *  
     *  ALTER TABLE 表名 ADD (字段名 NUMBER(6) NOT NULL,.......)----追加新列
     *  
     *  ALTER TABLE DROP(列名字)-----删除列
